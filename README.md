@@ -1,2 +1,2 @@
-# gfg-potd
-daily gfg questions 2023
+# gfg-potd 2023 
+daily gfg questions october 2023
